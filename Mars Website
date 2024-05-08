@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<!--
+        m       m
+       m m     m m
+      m   m   m   m
+     m     m m     m
+    m       m       m
+   m                 m
+  m                   m
+ m                     m
+m                       m
+            a
+           a a
+          a   a
+         a     a
+        aaaaaaaaa
+       a         a
+      a           a
+     a             a
+    a               a
+    
+       rrrrrrrrr
+       r        r
+       r         r
+       r        r
+       rrrrrrrrr
+       r       r
+       r        r
+       r         r
+       r          r
+       
+        sssssssss
+       sss
+      ss
+       sss
+        ssssssss
+               sss
+                 ss
+               sss
+       sssssssss
+
+-->
+<html>
+    <head>
+        <meta charset="utf-9">
+        <title>Mars Website</title>
+        <style>
+        
+        #Top-page {
+            background-color: rgb(0, 20, 80);
+        }
+        
+        #MWMT {
+            font: italic 45px fantasy;
+            background-color: rgb(80, 100, 180);
+        }
+        
+        #Disclaimer {
+            background-color: rgb(0, 60, 150);
+            font: bold 20px cursive;
+        }
+        
+        #Starting-info {
+            background-color: rgb(15, 0, 92); 
+        }
+        
+        #Boring-piece {
+            background-color: rgb;
+        }
+        
+        #Too-simple
+        
+        p {
+            color: rgb(80, 100, 220);
+            font-size: 18px;
+        }
+        
+        th {
+            color: rgb(100, 0, 200);
+            background-color: rgb(0, 50, 100);
+            font-family: sans-serif;
+        }
+        
+        td {
+            color: rgb(120, 80, 200);
+            background-color: rgb(0, 50, 100);
+            font: 14px monospace;
+        }
+        
+        h1, h2 {
+            color: rgb(0, 0, 150);
+            font-family: arial;
+        }
+        
+        body {
+            background-color: rgb(0, 20, 60);
+        }
+        
+        h3 {
+            color: rgb(50, 100, 150);
+        }
+        
+        a {
+            font-family: arial;
+            font-size: 18px;
+        }
+        
+        </style>
+    </head>
+    <body>
+        
+        <div id="Top-page">
+        
+        <h1 id="MWMT">Mars</h1>
+        <h3 id="Disclaimer">This website is not finished. If you have information you would like me to add, make a comment or spin-off.</h3>
+        <!-- This thing below is the TABLE OF CONTENTS-->
+        <h2>Table of contents:</h2>
+        <h3><a href= "#MBF">Basic facts</a></h3>
+        <h3><a href= "#BMS">Stats</a></h3>
+        <h3><a href= "#MH">History</a></h3>
+        <h3><a href= "#MG">Geography</a></h3>
+        <h3><a href= "#WOM">Water on Mars</a></h3>
+        <h3><a href= "#TM">Terraforming Mars</a></h3>
+        <h3><a href= "#MSS">Satellites</a></h3>
+        <h3><a href= "#"> </a></h3>
+        <h3><a href= "#"> </a></h3>
+        <h3><a href= "#"> </a></h3>
+        <h3><a href= "#"> </a></h3>
+        <h3><a href= "#"> </a></h3>
+        <h3><a href= "#"> </a></h3>
+        <h3><a href= "#"> </a></h3>
+        <h3><a href= "#"> </a></h3>
+        <h3><a href= "#"> </a></h3>
+        
+        <!--The empty slots above are for future chapters-->
+        
+        </div>
+        <div id="Starting-info">
+        
+        <p><a href= "https://en.wikipedia.org/wiki/Mars">All picture credit: Wikipedia <br></a></p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/435px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png" width="560"> <!--This is the main picture you see right under the table of contents-->
+        
+        <h2 id = "MBF">Mars Basic Facts</h2>
+        <p>Mars is the fourth planet from the sun, between Earth and the asteroid belt.</p>
+        <p>Mars is called 'the red planet', coming from the thick red color of the surface. This is caused by rust coating the entire surface of Mars.</p>
+        <p>Mars is a fourth the size of Earth and is much colder. The lows on Mars are −160 °F degrees!</p>
+        <p>Mars has two moons, Phobos and Deimos. Phobos is bigger than and closer to Mars than Deimos is.</p>
+        <p>Olympus Mons, a Martian mountain, is the biggest mountain known to mand kind. Nothing we know taller than Olympus Mons.</p>
+        <p>Despite what it looks like now, Mars used to be bursting with life at one point. It had CO2, H2O, and even O2!</p>
+        <p>Being the interesting planet it is, Mars has been visited by many space companies, including ESA & NASA!</p>
+        
+        </div>
+        <div id= "Too-simple">
+        
+        <h2 id = "BMS">Basic Mars Statistics</h2>
+        <p>Age: 4.6 BYA</p>
+        <p>Mass: 1/10 Earths'</p>
+        <p>Volume: 1/6 Earths'</p>
+        <p>Axis tilt: 25°</p>
+        <p>Distance from the sun: </p>
+        <p>Temp max: 95 °F</p>
+        <p>Temp min: −160 °F</p>
+        <p>Moons: 2</p>
+        <p>Gravity: 1/3 Earths'</p>
+        
+        </div>
+        <div id= "Boring-piece">
+        
+        <h2 id = "MH">Martian History</h2>
+        <p>Mars has been around for about 4.6 BILLION years, while Earth has been around for about 4.5 (Mars: 4.56 Earth: 4.47). Being almost 100 million years older than Earth, Mars has a lot more history for scientists to discover. So far, we know that water and oxygen were on Mars a <em>long</em> time ago. </p>
+        <p>Mars was discovered in Medieval Roman times (Hence the name 'Mars', after the Roman god of war). The first time Mars was observed with a telescope was in <em>1620</em> by Galileo!</p>
+        <p>About 4 billion years ago (Earth was still a baby), there was life and water on Mars! Because of the water on the planet, there are big valleys where martian seas were, mostly to the north, where the poles are (which also contain water!). (See Water on Mars)</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        
+        </div>
+        <div>
+        
+        <h2 id = "MG">Martian Geography</h2>
+        <p>Contents:</p>
+    <p><a href = "##Olympus">Olympus Mons</a></p>
+    <p></p>
+    <p><a href = "##Tharis">Tharis Montes</a></p>
+    <p></p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Mars_MOLA_Topography_by_Fabio_Crameri.png" width="560">
+        <p>Topography of Mars.<br><a href= "https://en.wikipedia.org/wiki/Areography">Picture credit: Wikipedia <br></a></p>
+        <h3 id = "#Olympus">Olympus Mons</h3>
+        <p>Olympus Mons is the tallest mountain in the solar system. Being 21,230 meters tall, Olympus Mons is 3 times as tall as Mount Everest and 2 times as tall as Muana Kea! Being a shield volcano, it's also one of the widest mountains, too. Olympus Mons is the size of Poland!</p>
+        <h3 id = "#Tharis">Tharsis Montes</h3>
+        <p>Tharsis Montes is a mountain range on Mars that contains three mountains located in the tharsis region. (From north to south) The Mountains are Ascraeus Mons (18 km), Pavonis Mons (14 km), and Arsia Mons (20 km).</p>
+        
+        </div>
+        
+        <h2 id = "WOM">Water On Mars</h2>
+        <img id = "WOM2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/AncientMars.jpg/1024px-AncientMars.jpg" width="450">
+        
+        <p>Scientists already know water's been on Mars's surface before, they just don't know <em>exactly</em> how long it's been. The picture above (<a href= "https://en.wikipedia.org/wiki/Water_on_Mars">Provided by Wikipedia</a>) shows what Mars probably looked like with water. The image below (<a href= "https://en.wikipedia.org/wiki/Water_on_Mars">Also provided by Wikipedia</a>) shows a vague history of Mars in billions of years.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/History_of_Water_on_Mars.jpg" width="450">
+        <p>Valles Marineris used to be a river (hence the latin name 'Mariner's Valley'), but after all of Mars's surface water disappeared, the only thing left was the riverbed. (See image below <a href= "https://en.wikipedia.org/wiki/Valles_Marineris">provided by Wikipedia</a>)</p>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/1200px-VallesMarinerisHuge.jpg" width="560">
+        
+        <p><br></p>
+        
+        <!--This is the good part-->
+        
+        <h2 id = "TM">Terraforming Mars</h2>
+        <p>Now that you know some good geography and history, let's talk about terraforming Mars. Terraforming Mars may seem like a really good idea, but it would take <em>tons</em> of resources, money, effort, and most of all, <em>time.</em></p>
+        <p>To start off, Mars is on the <em>literal edge</em> of the habitable zone. (Shown below)</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Diagram_of_different_habitable_zone_regions_by_Chester_Harman.jpg/1920px-Diagram_of_different_habitable_zone_regions_by_Chester_Harman.jpg" width="560">
+        <p>As this picture shows (<a href= "https://en.wikipedia.org/wiki/Habitable_zone">Provided by Wikipedia</a>), Mars gets around 30% the amount of sunlight that Earth gets. Because of this, Mars is <strong>a lot</strong> colder than Earth, at around <em>225 degrees Fahrenheit!</em></p>
+        <p></p>
+        <p></p>
+        
+        <p><br></p>
+        
+    <!--Hello and welcome to the mighty list of satellites!-->
+        
+        <h2 id="MSS">Mars satellites</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Satellite name</th>
+                    <th>Launched</th>
+                    <th>Landed/Orbited</th>
+                    <th>Purpose</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Curiosity</td>
+                    <td>Nov 26, 2011</td>
+                    <td>Aug 6, 2012</td>
+                    <td>Rover</td>
+                </tr>
+                <tr>
+                    <td>Mars Global Surveyor</td>
+                    <td>Nov 7, 1996</td>
+                    <td>Sep 11, 1997</td>
+                    <td>Orbiter</td>
+                </tr>
+                <tr>
+                    <td>Mars Polar Lander</td>
+                    <td>Jan 3, 1999</td>
+                    <td>Dec 3, 1999</td>
+                    <td>Lander</td>
+                </tr>
+                <tr>
+                    <td>Spirit</td>
+                    <td>June 10, 2003</td>
+                    <td>Jan 4, 2004</td>
+                    <td>Rover</td>
+                </tr>
+                <tr>
+                    <td>Opportunity</td>
+                    <td>July 8, 2003</td>
+                    <td>Jan 25, 2004</td>
+                    <td>Rover</td>
+                </tr>
+                <tr>
+                    <td>Perseverance</td>
+                    <td>July 30, 2020</td>
+                    <td>Feb 18 2021</td>
+                    <td>Rover</td>
+                </tr>
+                <tr>
+                    <td>Ingenuity</td>
+                    <td>July 30, 2020</td>
+                    <td>Apr 3, 2021</td>
+                    <td>Helicopter</td>
+                </tr>
+                <tr>
+                    <td>Mariner 3/4</td>
+                    <td>Nov 5/28, 1964 </td>
+                    <td>Failure/Jul 14, 1965</td>
+                    <td>Flybys</td>
+                </tr>
+                <tr>
+                    <td>Mariner 6/7</td>
+                    <td>Feb 25/Mar 27, 1969</td>
+                    <td>July 31/Aug 5, 1969</td>
+                    <td>Flybys</td>
+                </tr>
+                <tr>
+                    <td>Mariner 8/9</td>
+                    <td>May 9/30, 1971</td>
+                    <td>Failure/Nov 14, 1971</td>
+                    <td>Orbiters</td>
+                </tr>
+                <tr>
+                    <td>Mars Express</td>
+                    <td>June 2, 2003</td>
+                    <td>Dec 20, 2003</td>
+                    <td>ESA Orbiter</td>
+                </tr>
+                <tr>
+                    <td>Hope</td>
+                    <td>July 19, 2020</td>
+                    <td>Feb 9, 2021</td>
+                    <td>UAE Orbiter</td>
+                </tr>
+                <tr>
+                    <td>Viking 1/2</td>
+                    <td>Aug 20/Sep 9, 1975</td>
+                    <td>July 20/Sep 3, 1976</td>
+                    <td>Landers</td>
+                </tr>
+                <tr>
+                    <td>Pheonix</td>
+                    <td>Aug 4, 2007</td>
+                    <td>May 25, 2008</td>
+                    <td>Landers</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                
+                <!--These are for future satelites-->
+                
+                
+            </tbody>
+        </table>
+        
+        <div><table>
+            <thead>
+                <tr>
+                    <th>Satellite name</th>
+                    <th>Launched</th>
+                    <th>Landed/Orbited</th>
+                    <th>Purpose</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Curiosity</td>
+                    <td>Nov 26, 2011</td>
+                    <td>Aug 6, 2012</td>
+                    <td>Rover</td>
+                </tr>
+                <tr>
+                    <td>Mars Global Surveyor</td>
+                    <td>Nov 7, 1996</td>
+                    <td>Sep 11, 1997</td>
+                    <td>Orbiter</td>
+                </tr>
+                <tr>
+                    <td>Mars Polar Lander</td>
+                    <td>Jan 3, 1999</td>
+                    <td>Dec 3, 1999</td>
+                    <td>Lander</td>
+                </tr>
+                <tr>
+                    <td>Spirit</td>
+                    <td>June 10, 2003</td>
+                    <td>Jan 4, 2004</td>
+                    <td>Rover</td>
+                </tr>
+                <tr>
+                    <td>Opportunity</td>
+                    <td>July 8, 2003</td>
+                    <td>Jan 25, 2004</td>
+                    <td>Rover</td>
+                </tr>
+                <tr>
+                    <td>Perseverance</td>
+                    <td>July 30, 2020</td>
+                    <td>Feb 18 2021</td>
+                    <td>Rover</td>
+                </tr>
+                <tr>
+                    <td>Ingenuity</td>
+                    <td>July 30, 2020</td>
+                    <td>Apr 3, 2021</td>
+                    <td>Helicopter</td>
+                </tr>
+                <tr>
+                    <td>Mariner 3/4</td>
+                    <td>Nov 5/28, 1964 </td>
+                    <td>Failure/Jul 14, 1965</td>
+                    <td>Flybys</td>
+                </tr>
+                <tr>
+                    <td>Mariner 6/7</td>
+                    <td>Feb 25/Mar 27, 1969</td>
+                    <td>July 31/Aug 5, 1969</td>
+                    <td>Flybys</td>
+                </tr>
+                <tr>
+                    <td>Mariner 8/9</td>
+                    <td>May 9/30, 1971</td>
+                    <td>Failure/Nov 14, 1971</td>
+                    <td>Orbiters</td>
+                </tr>
+                <tr>
+                    <td>Mars Express</td>
+                    <td>June 2, 2003</td>
+                    <td>Dec 20, 2003</td>
+                    <td>ESA Orbiter</td>
+                </tr>
+                <tr>
+                    <td>Hope</td>
+                    <td>July 19, 2020</td>
+                    <td>Feb 9, 2021</td>
+                    <td>UAE Orbiter</td>
+                </tr>
+                <tr>
+                    <td>Viking 1/2</td>
+                    <td>Aug 20/Sep 9, 1975</td>
+                    <td>July 20/Sep 3, 1976</td>
+                    <td>Landers</td>
+                </tr>
+                <tr>
+                    <td>Pheonix</td>
+                    <td>Aug 4, 2007</td>
+                    <td>May 25, 2008</td>
+                    <td>Landers</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                
+                <!--These are for future satelites-->
+                
+                
+            </tbody>
+        </table>
+        </div>
+    </body>
+</html>
+
+<!--
+
+Alt Gr 995 = π
+
+Alt Gr 9876 = ö
+
+Alt Gr 9876543210 = Ω
+
+Alt Gr 69 = E
+
+-->
